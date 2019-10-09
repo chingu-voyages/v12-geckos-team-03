@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MusicNobs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
@@ -22,6 +23,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Further help`
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# v12-geckos-team-03
+Add-project-description-here | Voyage-12 | https://chingu.io/ | https://twitter.com/ChinguCollabs
+>>>>>>> bffde1dd1ddaaf600ee24f58f9b313aa691ce23e
